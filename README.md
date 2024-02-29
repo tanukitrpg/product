@@ -11,11 +11,15 @@
 
 ## 骰子
 
-![Image text](https://github.com/tanukitrpg/product/blob/main/pics/dice3.jpg)
-
 骰子有很多式样，颜色、内容物可以定制
 
+![Image text](https://github.com/tanukitrpg/product/blob/main/pics/dice3.jpg)
+
+
+
 ## 陶片
+
+陶片样式较多，由较为坚硬的石膏模拟，图案可以定制，但材质较为脆弱，考虑到耐久度，也可以换成水滴胶材质。
 
 ![Image text](https://github.com/tanukitrpg/product/blob/main/pics/pottery_fragments1.jpg)
 ![Image text](https://github.com/tanukitrpg/product/blob/main/pics/pottery_fragments2.jpg)
