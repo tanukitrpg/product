@@ -1,6 +1,11 @@
 # 产品
 
 目前狸猫社没有规范化产品，手工生产效率较低
+如果您感兴趣，可以登录我们的CPP页面查找更加详细的产品介绍！
+
+https://www.allcpp.cn/u/2819210.do?showtype=1
+
+
 本项目仅储存实体产品
 订购产品请联系tanukitrpg@outlook.com
 
